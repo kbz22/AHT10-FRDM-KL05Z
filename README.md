@@ -1,0 +1,2 @@
+# AHT10-FRDM-KL05Z
+AHT10 sensor on FRDM-KL05Z board
